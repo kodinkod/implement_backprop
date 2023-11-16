@@ -2,4 +2,4 @@
 
 
 - nn.py included Network(), Sigmoid(), Dense(), Softmax()
-- tutorial.ipynb  - quick start
+- tutorial.ipynb  - quick start!
